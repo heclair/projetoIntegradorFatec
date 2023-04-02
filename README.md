@@ -12,7 +12,7 @@ Com todas as ferramentas necessárias devidamente instaladas, baixe ou clone est
 # Baixe este repositório ou clone pelo Git usando o comando:
 $ git clone https://github.com/ThePerryDev/Web.git
 
-# Caso queira baixar uma branch com feature específica:
+# Caso queira clonar uma branch com feature específica:
 $ git clone -b nome-da-branch https://github.com/ThePerryDev/Web.git
 
 ```
