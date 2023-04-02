@@ -12,6 +12,9 @@ Com todas as ferramentas necessárias devidamente instaladas, baixe ou clone est
 # Baixe este repositório ou clone pelo Git usando o comando:
 $ git clone https://github.com/ThePerryDev/Web.git
 
+# Caso queira baixar uma branch com feature específica:
+$ git clone -b nome-da-branch https://github.com/ThePerryDev/Web.git
+
 ```
 Agora o servidor deste projeto está ativo. É só acessar pelo localhost na porta 3333: [https://localhost:3333]!
 
