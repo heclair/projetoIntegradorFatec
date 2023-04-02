@@ -37,3 +37,4 @@ As seguintes tecnologias e ferramentas estão sendo utilizadas neste projeto:
 - [HTML](https://www.w3.org/)
 - [CSS](https://www.w3schools.com/css/default.asp)
 - [Google Fonts](https://fonts.googleapis.com)
+- [Notion](https://www.notion.so/52f1e4cb81264e8eb6413f959621c565?v=f25234adcdee4f579ec697287b86b268)
