@@ -9,7 +9,6 @@ body{
 
 .container{
     padding: 70px;
-    margin-bottom: 25px;
 }
 
 p, li {
@@ -141,10 +140,6 @@ header, .navbar{
 
 
 /*BOTÃO INICIAR CURSO MARIANA RAMALHO*/
-
-#botao1 {
-    margin-bottom: 30px;
-}
 
 /*OS DESENVOLVEDORES WILLIAN GARCIA E LUIZ EDUARDO*/
 
