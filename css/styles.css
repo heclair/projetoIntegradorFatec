@@ -48,6 +48,8 @@ header, .navbar{
 
 #nav2{
     height: auto;
+    padding-left: 25px   ;
+    padding-right: 25px;
 }
 
 .navbar-brand:hover {
