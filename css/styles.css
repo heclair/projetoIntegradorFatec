@@ -9,6 +9,7 @@ body{
 
 .container{
     padding: 70px;
+    padding-left: 0px;
 }
 
 p, li {
@@ -96,6 +97,30 @@ header, .navbar{
     height: 80px;
     font-weight: 400;
     font-size: 36px;
+    line-height: 150%;
+}
+
+/* NOSSO CURSO */
+
+#cinzaCps{
+    background-color: #F0F0F0;
+    padding: 0px;
+    background-image: url(../img/cps.png);
+    background-repeat: no-repeat;
+}
+
+.carousel img{
+    width: 100%;
+    height: auto;
+}
+
+#txtNossoCurso{
+    left: 723px;
+    top: 1040px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
     line-height: 150%;
 }
 
