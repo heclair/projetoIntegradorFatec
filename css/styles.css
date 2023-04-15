@@ -159,12 +159,48 @@ header, .navbar{
 }
 
 
-/*BOTÃO INICIAR CURSO MARIANA RAMALHO*/
-
 /*OS DESENVOLVEDORES WILLIAN GARCIA E LUIZ EDUARDO*/
 
+#devTexto p{
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 150%;
+}
+
+#devTexto h1{
+   
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 150%;
+    color: #004854 ;
+}
+
+#cinzaDev{
+    background-color: #F0F0F0;
+    padding: 0px;
+    background-image: url(../img/cps.png);
+    background-repeat: no-repeat;
+}
 
 /*CONTATO RAFAEL ESTEVAM*/
+#contContato{
+    background-color: #004854;
+}
+
+#contatoGit{
+    width: 487px;
+    height: 238px;
+    background-color: #D9D9D9;
+    padding: 0px;
+    text-align: center;
+    justify-content: center;
+    
+}
+
 
 
 /*RODAPÉ RAFAEL ESTEVAM*/
