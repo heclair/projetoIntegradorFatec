@@ -115,8 +115,7 @@ header, .navbar{
 }
 
 #txtNossoCurso{
-    left: 723px;
-    top: 1040px;
+  
     font-family: 'Roboto';
     font-style: normal;
     font-weight: 400;
@@ -202,10 +201,8 @@ header, .navbar{
 }
 
 #giHubImg{
-    width: 117px;
-    height: 99px;
-
-    
+    width: 50%;
+    height: 50%;   
 }
 
 #gitContato a{
@@ -215,8 +212,7 @@ header, .navbar{
     font-size: 20px;
     line-height: 150%;
     color: #000;
-    width: 100%;
-    
+    position: relative;   
 }
 
 #imgContato{
