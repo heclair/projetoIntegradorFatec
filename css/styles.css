@@ -229,9 +229,21 @@ header, .navbar{
 
 /*BARRA DE NAVEGAÇÃO HECLAIR */
 
+#navCurso{
+    background-color: #DADADA;
+}
+
 
 /*CARROSSEL LUIZ EDUARDO*/
 
+#carrosselCinza{
+    background-color: #DADADA;
+    padding-top: 50px ;
+}
+
+#contact-area{
+    background-color: #DADADA;
+}
 
 /*BOTÕES DANIEL DORNELAS */
 
